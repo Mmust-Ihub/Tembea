@@ -9,7 +9,7 @@
 - View and manage your travel wishlist.
 
 ## Screenshots
-
+![Screenshot 1](assets/images/.jpg)
 
 
 ## Installation
