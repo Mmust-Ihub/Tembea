@@ -1,16 +1,34 @@
-# tembea
+# Tembea
 
-A new Flutter project.
+**Tembea** is a travel planning app built with Flutter, designed to help users discover and organize travel destinations. The app provides a list of destinations along with their prices, and users can add preferred destinations to their travel wishlist for future planning.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse a list of travel destinations with detailed information and prices.
+- Add destinations to a personalized wishlist.
+- View and manage your travel wishlist.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Mmust-Ihub/Tembea.git
+   cd Tembea
+2. **Install dependencies**:
+   
+   ```bash
+   flutter pub get
+3. **Run the app**
+
+   ```bash
+   flutter run
+# Technologies used
+
+#
