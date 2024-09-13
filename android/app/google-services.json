@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "656109020820",
+    "project_id": "tembea-a8335",
+    "storage_bucket": "tembea-a8335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656109020820:android:f4f83271e4cceb3ce8f681",
+        "android_client_info": {
+          "package_name": "com.example.tembea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656109020820-t3g5kqvbiot8uta38lfniau4rgh41d8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tembea",
+            "certificate_hash": "02c418393248a029eaa18c419c60a81eebce4417"
+          }
+        },
+        {
+          "client_id": "656109020820-0islcr9i4915tu8p3ip9uh4gud8s7j8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOQUJees5rMr7Vmnkj1mmWCxVOBhUT8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656109020820-0islcr9i4915tu8p3ip9uh4gud8s7j8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656109020820-civc0cg56nr3qbianlhd9e36lqmplr25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tembea"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
